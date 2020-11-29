@@ -1,7 +1,7 @@
 import React from 'react'
 
-import Header from '../header'
-import emptyCartImg from '../../img/empty-cart.png'
+import Header from '../components/header'
+import emptyCartImg from '../img/empty-cart.png'
 
 
 function CartEmpty() {
